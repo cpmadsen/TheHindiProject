@@ -42,7 +42,7 @@ I have already learned more or less how to read the Hindi script *Devanagari*. I
 
 Once you've become familiar with most of the commonly used characters / letters, it's time to gather motivation, collect resources, and start to complete practice sessions (or, "bricks").
 
-### Gathering Motivation
+### Gathering Motivation :raised_hands: :muscle:
 
 1. Watch Youtube videos about language learning.
 
@@ -52,7 +52,7 @@ Once you've become familiar with most of the commonly used characters / letters,
 
 ### Resources
 
-#### Anki Deck(s):
+#### Anki Deck(s) :card_index:
 
 1. [2800 Hindi sentences sorted by difficulty [with audio]](https://ankiweb.net/shared/info/707994711)
 
@@ -66,7 +66,7 @@ Once you've become familiar with most of the commonly used characters / letters,
 3. (for later, quite difficult) [Intermediate Hindi reader / Usha R. Jain with Karine
 Schomer.](https://www.amazon.ca/Intermediate-Hindi-Reader-Usha-Jain/dp/087725351X)
 
-#### Movies and Television shows:
+#### Movies and Television shows :tv:
 
 As Lamont demonstrates in his youtube video ["I learned Spanish watching Spiderman 50 times"](https://www.youtube.com/watch?v=eliB_y0fmSk&ab_channel=DaysandWords), there is great benefit in watching content many, many times. Ideally, content should be watched more than 10 times. To pull this off, the content should be enjoyable *even without full comprehension* - animated movies are quite good for this.
 
