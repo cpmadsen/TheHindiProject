@@ -1,11 +1,5 @@
 # The Hindi Project
 
-<script>
-function show_bit(bit_id) {
-    document.getElementById(bit_id).style.fontWeight='bold';
-}
-</script>
-
 I set the goal for myself at the end of 2024 to **learn Hindi** - so, naturally, it's mid-March and I haven't made much progress yet.
 
 Let's talk about the goal:
