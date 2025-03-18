@@ -7,7 +7,8 @@ I set the goal for myself at the end of 2024 to **learn Hindi** - so, naturally,
     document.getElementById(the_id).style.visibility='visible';
     }
 </script>
-<div id = 'goop' style = 'visibility:hidden;' onclick="make_vis(goop)">Forp</div>
+<div onclick="make_vis(goop)">Click me!</div>
+<div id = 'goop' style = 'visibility:hidden;'>Forp</div>
 
 Let's talk about the goal:
 
