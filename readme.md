@@ -1,6 +1,6 @@
 # The Hindi Project
 
-I set the goal for myself at the end of 2024 to **learn Hindi** - so, naturally, it's mid-March and I haven't made much progress yet.
+I set the goal for myself at the end of 2024 to **learn Hindi** - so, naturally, it's mid-March and I haven't made much progress yet. 
 
 Let's talk about the goal:
 
@@ -38,9 +38,17 @@ These are quite advanced linguistic levels to achieve. See details below.
     j. Discuss workplace safety issues, report an injury and explain rules and regulations.
     k. Discuss polite behavior and respond appropriately to impolite behavior.
 
+I have already learned more or less how to read the Hindi script *Devanagari*. If you would like to follow this outline, **learning the script should be your first step**. It's tough but doable and should take you less than a month if you chip away at it every day. Duolingo is quite good for learning the script, or Rupert Snell's Teach Yourself Hindi, or any of the many youtube videos on this topic.
+
+Once you've become familiar with most of the commonly used characters / letters, it's time to gather motivation, collect resources, and start to complete practice sessions (or, "bricks").
+
 ### Gathering Motivation
 
 1. Watch Youtube videos about language learning.
+
+    a. [Lamont in Days And Words](https://www.youtube.com/@daysandwords)
+
+    b. [Language Lords](https://www.youtube.com/@languagelords)
 
 ### Resources
 
@@ -48,7 +56,7 @@ These are quite advanced linguistic levels to achieve. See details below.
 
 1. [2800 Hindi sentences sorted by difficulty [with audio]](https://ankiweb.net/shared/info/707994711)
 
-#### Books
+#### Books :book:
 
 #### Courses / Books / Textbooks
 
