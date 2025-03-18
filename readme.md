@@ -1,3 +1,7 @@
+---
+title: The Hindi Project
+---
+
 # The Hindi Project :notebook:
 
 I set the goal for myself at the end of 2024 to **learn Hindi** - so, naturally, it's mid-March and I haven't made much progress yet. 
