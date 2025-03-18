@@ -1,18 +1,6 @@
----
-title: The Hindi Project
----
-
 # The Hindi Project :notebook:
 
 I set the goal for myself at the end of 2024 to **learn Hindi** - so, naturally, it's mid-March and I haven't made much progress yet. 
-
-<script>
-    function make_vis(the_id) {
-    document.getElementById(the_id).style.visibility='visible';
-    }
-</script>
-<div onclick="make_vis(goop)">Click me!</div>
-<div id = 'goop' style = 'visibility:hidden;'>Forp</div>
 
 Let's talk about the goal:
 
@@ -73,7 +61,9 @@ Once you've become familiar with most of the commonly used characters / letters,
 #### Courses / Books / Textbooks
 
 1. [A Door into Hindi](https://taj.oasis.unc.edu/lessons.html)
-2. [Intermediate Hindi reader / Usha R. Jain with Karine
+2. [A Basic Hindi Reader](https://www.amazon.ca/Basic-Hindi-Reader-Richard-Harris/dp/0801405343)
+3. (tough because it's hand-written) [Hindi Reader Vol. 1](https://books.google.ca/books/about/Hindi_Reader.html?id=EH8_vgAACAAJ&redir_esc=y)
+3. (for later, quite difficult) [Intermediate Hindi reader / Usha R. Jain with Karine
 Schomer.](https://www.amazon.ca/Intermediate-Hindi-Reader-Usha-Jain/dp/087725351X)
 
 #### Movies and Television shows:
