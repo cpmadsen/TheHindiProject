@@ -1,6 +1,13 @@
-# The Hindi Project
+# The Hindi Project :notebook:
 
 I set the goal for myself at the end of 2024 to **learn Hindi** - so, naturally, it's mid-March and I haven't made much progress yet. 
+
+<script>
+    function make_vis(the_id) {
+    document.getElementById(the_id).style.visibility='visible';
+    }
+</script>
+<div id = 'goop' style = 'visibility:hidden;' onclick="make_vis(goop)">Forp</div>
 
 Let's talk about the goal:
 
@@ -70,7 +77,7 @@ As Lamont demonstrates in his youtube video ["I learned Spanish watching Spiderm
 
 1. [Spiderman - Across the Spider-verse](https://hdmovie2.observer/31869-spider-man-across-the-spider-verse.html)
 
-### Building the House Brick by Brick
+### Building the House Brick by Brick :yen:
 
 What could one study session consist of? Let's say:
 
