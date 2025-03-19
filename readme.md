@@ -87,11 +87,11 @@ What could one study session consist of? Let's say:
 I don't expect myself to study every day; this calendar is just to help keep me accountable. 
 
 | Month | Sun | Mon | Tue | Wed | Thr | Fri | Sat |
-|  :-:  | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  Mar  |     |     |     |     |     |     |  1  |
-|  Mar  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |
-|  Mar  |  9  | 10  | 11  | 12  | 13  | 14  | 15  |
-|  Mar  |16|**~~17~~**|18|19|20|21|22|
-|  Mar  |23|24|25|26|27|28|29|
-|  Mar  |30|31|1|2|3|4|5|
-|  April  |6|7|8|9|10|11|12|
+|:-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Mar|||||||1|
+|Mar|2|3|4|5|6|7|8|
+|Mar|9|10|11|12|13|14|15|
+|Mar|16|**~~17~~**|**~~18~~**|19|20|21|22|
+|Mar|23|24|25|26|27|28|29|
+|Mar|30|31|1|2|3|4|5|
+|April|6|7|8|9|10|11|12|
