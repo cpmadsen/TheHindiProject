@@ -72,6 +72,8 @@ As Lamont demonstrates in his youtube video ["I learned Spanish watching Spiderm
 
 1. [Spiderman - Across the Spider-verse](https://hdmovie2.observer/31869-spider-man-across-the-spider-verse.html)
 
+2. [Austin Powers - Goldmember](https://vidply.com/e/wsuv0h9i7c4f)
+
 ### Building the House Brick by Brick :yen:
 
 What could one study session consist of? Let's say:
@@ -79,3 +81,17 @@ What could one study session consist of? Let's say:
 1. 10+ Anki flashcards reviewed.
 2. 10+ minutes of a movie or television show. 
 3. Read one dialogue or page of a book in one of the books/textbooks.
+
+### Calendar of Study
+
+I don't expect myself to study every day; this calendar is just to help keep me accountable. 
+
+| Month | Sun | Mon | Tue | Wed | Thr | Fri | Sat |
+|  :-:  | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  Mar  |     |     |     |     |     |     |  1  |
+|  Mar  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |
+|  Mar  |  9  | 10  | 11  | 12  | 13  | 14  | 15  |
+|  Mar  |16|**~~17~~**|18|19|20|21|22|
+|  Mar  |23|24|25|26|27|28|29|
+|  Mar  |30|31|1|2|3|4|5|
+|  April  |6|7|8|9|10|11|12|
