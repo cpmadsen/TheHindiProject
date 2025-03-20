@@ -1,12 +1,12 @@
 # The Hindi Project :notebook:
 
-I set the goal for myself at the end of 2024 to **learn Hindi** - so, naturally, it's mid-March and I haven't made much progress yet. 
+I set the goal for myself at the end of 2024 to **learn Hindi to a reasonable level in 2025** - so, naturally, it's mid-March and I haven't made much progress yet. 
 
 Let's talk about the goal:
 
 ## Achieve A2 or B1 in Hindi
 
-These are quite advanced linguistic levels to achieve. See details below.
+The [CEFR](https://www.efset.org/cefr/) (Common European Framework of Reference for Languages) provides one way of understanding language proficiency. There are 6 levels: A1 (beginner), A2 (elementary), B1 (intermediate), B2 (upper intermediate), C1 (advanced) and C2 (proficient [though I may retitle this last to 'native-like']). My goal is to get to A2, or perhaps, B1. These are quite advanced linguistic levels to achieve. See details below that describe what one should be capable of speaking about.
 
 ### What is A2? The ability to:
 
@@ -37,6 +37,8 @@ These are quite advanced linguistic levels to achieve. See details below.
     i. Participate in negotiations in your area of expertise, if you have help understanding some points.
     j. Discuss workplace safety issues, report an injury and explain rules and regulations.
     k. Discuss polite behavior and respond appropriately to impolite behavior.
+
+### Prior Study and Context 
 
 I have already learned more or less how to read the Hindi script *Devanagari*. If you would like to follow this outline, **learning the script should be your first step**. It's tough but doable and should take you less than a month if you chip away at it every day. Duolingo is quite good for learning the script, or Rupert Snell's Teach Yourself Hindi, or any of the many youtube videos on this topic.
 
@@ -74,9 +76,9 @@ As Lamont demonstrates in his youtube video ["I learned Spanish watching Spiderm
 
 2. [Austin Powers - Goldmember](https://vidply.com/e/wsuv0h9i7c4f)
 
-### Building the House Brick by Brick :yen:
+### Study Sessions - Building the House Brick by Brick :yen:
 
-What could one study session consist of? Let's say:
+What could one study session comprise? Let's say:
 
 1. 10+ Anki flashcards reviewed.
 2. 10+ minutes of a movie or television show. 
@@ -84,7 +86,7 @@ What could one study session consist of? Let's say:
 
 ### Calendar of Study
 
-I don't expect myself to study every day; this calendar is just to help keep me accountable. 
+I don't expect myself to study every day; this calendar is just to help keep me accountable.
 
 | Month | Sun | Mon | Tue | Wed | Thr | Fri | Sat |
 |:-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
