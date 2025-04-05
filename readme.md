@@ -78,6 +78,13 @@ As Lamont demonstrates in his youtube video ["I learned Spanish watching Spiderm
 
 3. [Stardust](https://hdmovie2.do/16794-stardust-2007-hindi.html)
 
+#### Generated Short Stories
+
+In order to pass from simple textbook dialogues to written stories, I feel it may be necessary to spend some time reading LLM-generated short stories of a page or two in length.
+As soon as I am able, I would like to transition to real books (translated from English or, eventually, books that are originally written in Hindi). These can be found in the folder "generated_short_stories".
+
+1. सूरज और बिल्ली (A1 - A2 vocabulary; ChatGPT)
+
 ### Study Sessions - Building the House Brick by Brick :yen:
 
 What could one study session comprise? Let's say:
