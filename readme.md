@@ -87,7 +87,7 @@ As soon as I am able, I would like to transition to real books (translated from 
 
 ### Study Sessions - Building the House Brick by Brick :yen:
 
-What could one study session comprise? Let's say:
+What could one study session comprise? Let's say either one of each of the following, or perhaps 2 of one of these activities plus 1 of another. For example, if it's difficult to make time to watch 10 minutes of a movie or show, then I could double down on Anki and do twice the number of flashcards.
 
 1. 10+ Anki flashcards reviewed.
 2. 10+ minutes of a movie or television show. 
@@ -106,4 +106,4 @@ I don't expect myself to study every day; this calendar is just to help keep me 
 |Mar|23|**~~24~~**|25|26|27|**~~28~~**|29|
 |Mar|30|31|**~~1~~**|2|3|4|**~~5~~**|
 |April|6|7|**~~8~~**|9|**~~10~~**|11|12|
-|April|13|14|15|16|17|18|19|
+|April|13|14|15|16|17|**~~18~~**|19|
