@@ -70,13 +70,17 @@ Schomer.](https://www.amazon.ca/Intermediate-Hindi-Reader-Usha-Jain/dp/087725351
 
 #### Movies and Television shows :tv:
 
-As Lamont demonstrates in his youtube video ["I learned Spanish watching Spiderman 50 times"](https://www.youtube.com/watch?v=eliB_y0fmSk&ab_channel=DaysandWords), there is great benefit in watching content many, many times. Ideally, content should be watched more than 10 times. To pull this off, the content should be enjoyable *even without full comprehension* - animated movies are quite good for this.
+As Lamont demonstrates in his youtube video ["I learned Spanish watching Spiderman 50 times"](https://www.youtube.com/watch?v=eliB_y0fmSk&ab_channel=DaysandWords), there is great benefit in watching content many, many times. Ideally, content should be watched more than 10 times. To pull this off, the content should be enjoyable *even without full comprehension* - animated movies are quite good for this. It can also be easier to *re*-watch a movie you are very familiar with, ideally one in which you know almost all the lines - for these reasons, I opted for the following animated / Western movies.
 
 1. [Spiderman - Across the Spider-verse](https://hdmovie2.observer/31869-spider-man-across-the-spider-verse.html)
 
 2. [Austin Powers - Goldmember](https://vidply.com/e/wsuv0h9i7c4f)
 
 3. [Stardust](https://hdmovie2.do/16794-stardust-2007-hindi.html)
+
+However! The ultimate goal is to be able to watch and understand Bollywood movies. In addition, it's possible that Hindi movies depict actors and actresses with really clear diction (or they may even be dubbed by someone else who speaks more clearly). In light of these reasons, I present to you, some Bollywood classics:
+
+1. [Kabhi Khushi Kabhie Gham](https://watch.ug/movie/kabhi-khushi-kabhie-gham)
 
 #### Generated Short Stories
 
