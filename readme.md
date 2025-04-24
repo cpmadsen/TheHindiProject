@@ -82,13 +82,6 @@ However! The ultimate goal is to be able to watch and understand Bollywood movie
 
 1. [Kabhi Khushi Kabhie Gham](https://watch.ug/movie/kabhi-khushi-kabhie-gham)
 
-#### Generated Short Stories
-
-In order to pass from simple textbook dialogues to written stories, I feel it may be necessary to spend some time reading LLM-generated short stories of a page or two in length.
-As soon as I am able, I would like to transition to real books (translated from English or, eventually, books that are originally written in Hindi). These can be found in the folder "generated_short_stories".
-
-1. सूरज और बिल्ली (A1 - A2 vocabulary; ChatGPT)
-
 ### Study Sessions - Building the House Brick by Brick :yen:
 
 What could one study session comprise? Let's say either one of each of the following, or perhaps 2 of one of these activities plus 1 of another. For example, if it's difficult to make time to watch 10 minutes of a movie or show, then I could double down on Anki and do twice the number of flashcards.
@@ -111,4 +104,4 @@ I don't expect myself to study every day; this calendar is just to help keep me 
 |Mar|30|31|**~~1~~**|2|3|4|**~~5~~**|
 |April|6|7|**~~8~~**|9|**~~10~~**|11|12|
 |April|13|14|15|16|17|**~~18~~**|19|
-|April|20|**~~21~~**|22|23|24|25|26|
+|April|20|**~~21~~**|22|**~~23~~**|24|25|26|
