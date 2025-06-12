@@ -109,3 +109,9 @@ I don't expect myself to study every day; this calendar is just to help keep me 
 |April|**~~4~~**|5|6|7|8|9|**~~10~~**|
 |April|11|12|13|14|15|16|17|
 |April|18|**~~19~~**|20|21|22|23|24|
+
+~ ~ ~ Totally lost track of this challenge ~ ~ ~
+
+| Month | Sun | Mon | Tue | Wed | Thr | Fri | Sat |
+|:-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|June|8|9|10|11|**~~12~~**|13|14|
