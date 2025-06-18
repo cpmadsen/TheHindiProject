@@ -115,3 +115,4 @@ I don't expect myself to study every day; this calendar is just to help keep me 
 | Month | Sun | Mon | Tue | Wed | Thr | Fri | Sat |
 |:-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |June|8|9|10|11|**~~12~~**|13|14|
+|June|15|16|**~~17~~**|18|19|20|21
