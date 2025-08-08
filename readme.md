@@ -117,3 +117,9 @@ I don't expect myself to study every day; this calendar is just to help keep me 
 |June|8|9|10|11|**~~12~~**|13|14|
 |June|15|16|**~~17~~**|18|**~~19~~**|20|21|
 |June|22|23|24|25|26|27|**~~28~~**|
+
+~ ~ ~ Look who's back baby!! ~ ~ ~ 
+
+| Month | Sun | Mon | Tue | Wed | Thr | Fri | Sat |
+|:-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|August|3|4|5|6|**~~7~~**|8|9|
