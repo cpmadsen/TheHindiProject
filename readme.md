@@ -123,3 +123,4 @@ I don't expect myself to study every day; this calendar is just to help keep me 
 | Month | Sun | Mon | Tue | Wed | Thr | Fri | Sat |
 |:-:| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |August|3|4|5|6|**~~7~~**|**~~8~~**|9|
+|August|10|**~~11~~**|12|13|14|15|16|
