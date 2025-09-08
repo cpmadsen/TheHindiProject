@@ -127,3 +127,5 @@ I don't expect myself to study every day; this calendar is just to help keep me 
 |August|17|18|19|20|21|22|23|
 |August|24|25|26|27|28|29|**~~30~~**|
 |August|**~~31~~**|**~~1~~**|**~~2~~**|3|**~~4~~**|**~~5~~**|6|
+|Sept|**~~7~~**|8|9|10|11|12|13|
+
